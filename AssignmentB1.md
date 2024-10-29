@@ -168,7 +168,7 @@ test_that("summary_stats_variable works with vectors without NAs", {
 })
 ```
 
-    ## Test passed 🌈
+    ## Test passed 🥇
 
 ``` r
 #Test 2: Numeric variable with NAs
@@ -190,7 +190,7 @@ test_that("summary_stats_variable handles NAs correctly", {
 })
 ```
 
-    ## Test passed 🎊
+    ## Test passed 🥳
 
 ``` r
 #Test 3: Categorical variable with NAs
@@ -228,7 +228,7 @@ test_that("summary_stats_variable throws error when numeric is used for cat_var"
 })
 ```
 
-    ## Test passed 😸
+    ## Test passed 😀
 
 ``` r
 #Test 5: Attempt to use a categorical variable for 'num_var'
@@ -240,4 +240,4 @@ test_that("summary_stats_variable throws error when categorical is used for num_
 })
 ```
 
-    ## Test passed 🎉
+    ## Test passed 😀
