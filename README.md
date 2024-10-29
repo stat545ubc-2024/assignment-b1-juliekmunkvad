@@ -1,1 +1,27 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/s4oIzs8K)
+# Assignment B1
+
+This repository contains creation, examples, and tests of a function to calculate summary statistics completed as part of the STAT 545B coursework.  The repository includes the `.Rmd` and `.md` files related to the function.
+## Table of Contents
+
+| **File**              | **Description**                                           |
+|-----------------------|-----------------------------------------------------------|
+| [README](./README.md)          | Contains description of the project                       |
+| [AssignmentB1](./AssignmentB1.Rmd) | Rmd file for the Assignment B1                             |
+| [AssignmentB1](./AssigmentB1.md) | Markdown file generated from `AssignmentB1.Rmd`            |
+
+## **How to Run the Code in This Project**
+
+To get started, follow these steps:
+
+To be able to run the code in the repository, it is essential to have the following packages installed:
+- `palmerpenguins`
+- `dplyr`
+- `testthat`
+
+You can install the required packages using the following commands:
+
+install.packages("palmerpenguins")
+install.packages("dplyr")
+install.packages("testthat")
+
+Once the packages are installed, you can knit the `.Rmd` file to reproduce the results including creation, examples, and tests of the function.
