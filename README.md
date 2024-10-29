@@ -20,8 +20,8 @@ To be able to run the code in the repository, it is essential to have the follow
 
 You can install the required packages using the following commands:
 
-install.packages("palmerpenguins")
-install.packages("dplyr")
-install.packages("testthat")
+- install.packages("palmerpenguins")
+- install.packages("dplyr")
+- install.packages("testthat")
 
 Once the packages are installed, you can knit the `.Rmd` file to reproduce the results including creation, examples, and tests of the function.
