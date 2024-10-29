@@ -2,7 +2,7 @@
 title: "Assignment_B1"
 output: github_document
 ---
-Initially, the required packages are installed. The function uses dplyr, and I will provide examples using the _penguins_ data set from `palmerpenguins` package.
+Initially, the required packages are installed. The function uses dplyr, and I will provide examples using the _penguins_ data set from `palmerpenguins` package. The tests for the functions are developed using the `testthat` package.
 
 ```{r, message=FALSE}
 library(palmerpenguins)
