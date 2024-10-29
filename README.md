@@ -7,7 +7,7 @@ This repository contains creation, examples, and tests of a function to calculat
 |-----------------------|-----------------------------------------------------------|
 | [README](./README.md)          | Contains description of the project                       |
 | [AssignmentB1](./AssignmentB1.Rmd) | Rmd file for the Assignment B1                             |
-| [AssignmentB1](./AssigmentB1.md) | Markdown file generated from `AssignmentB1.Rmd`            |
+| [AssignmentB1](./AssignmentB1.md) | Markdown file generated from `AssignmentB1.Rmd`            |
 
 ## **How to Run the Code in This Project**
 
